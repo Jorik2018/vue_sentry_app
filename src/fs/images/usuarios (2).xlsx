@@ -1,0 +1,1 @@
+org.hibernate.hql.internal.ast.QuerySyntaxException: unexpected token: Usuario near line 1, column 17 [SELECT o ,sFROM Usuario o JOIN o.people p LEFT JOIN Store s ON s.sellerId=o.id  WHERE 1=1  AND o .anulado=0  ORDER BY 1 DESC]
